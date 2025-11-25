@@ -1,0 +1,7 @@
+strInt = input("Enter a integer value : ")
+strInt = int(strInt)
+print("Value : ",strInt," Type : ",type(strInt))
+strInt = float(strInt)
+print("Value : ",strInt," Type : ",type(strInt))
+strInt = str(strInt)
+print("Value : ",strInt," Type : ",type(strInt))
